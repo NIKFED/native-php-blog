@@ -1,3 +1,3 @@
 <?php
 
-require('posts.php');
+//require('posts.php');
